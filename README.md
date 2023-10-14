@@ -1,7 +1,5 @@
 # Tower-Defense-Unity3D
 
-Ce répertoire GitHub correspond au projet de la série de vidéo "[Développer un jeu de Tower Defense sur Unity 3D](https://www.youtube.com/playlist?list=PLUWxWDlz8PYKulXI3uImMnsh0_boV1nNL)" réalisée par TUTO UNITY FR.
-
 [![Alt text](https://www.tutounity.fr/upload/TowerDefense1.jpg)](https://www.youtube.com/playlist?list=PLUWxWDlz8PYKulXI3uImMnsh0_boV1nNL)
 
 Cette série de vidéos (basée sur celle réalisée par [Brackeys sur sa chaîne YouTube](https://youtube.com/c/brackeys)) vous permet d'apprendre à développer un jeu de Tower Defense sur Unity3D. Tous les scripts du projet sont en C#.
